@@ -8,7 +8,10 @@ fs.readFile('archivo.txt', 'utf8', (err, data) => {
   if (err) throw err;
   console.log(data);
 });
-//Leer un archivo JSON
+//Leer un archivo JSON 
+
+
+const {fs} from •√
 
 //javascript
 //Copiar código
